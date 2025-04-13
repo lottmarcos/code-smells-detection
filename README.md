@@ -1,11 +1,11 @@
-# Detecção de Code Smells e Recomendação de Refatorações
+#  Avaliação de LLMs na Detecção de Code Smells e Recomendação de Refatorações
 
 ## Membros do Grupo
 
-- Alan Augusto Martins Campos - 2021040121
-- Davi Esondem Menezes Brito - 2021039808
-- ⁠Fillipe de Oliveira Almeida - 2021040016
-- ⁠Marcos Lott de Araújo - 2021039786
+- Alan Augusto Martins Campos - 2021040121 (SI)
+- Davi Esondem Menezes Brito - 2021039808 (SI)
+- ⁠Fillipe de Oliveira Almeida - 2021040016 (SI)
+- ⁠Marcos Lott de Araújo - 2021039786 (SI)
 
 ## Objetivo do Trabalho
 
