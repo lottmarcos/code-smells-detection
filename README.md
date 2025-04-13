@@ -1,4 +1,12 @@
 # Detecção de Code Smells e Recomendação de Refatorações
+
+## Membros do Grupo
+
+- Alan Augusto Martins Campos - 2021040121
+- Davi Esondem Menezes Brito - 2021039808
+- ⁠Fillipe de Oliveira Almeida - 2021040016
+- ⁠Marcos Lott de Araújo - 2021039786
+
 ## Objetivo do Trabalho
 
 Avaliar a capacidade de Modelos de Linguagem de Grande Escala (LLMs) em detectar code smells e recomendar refatorações, utilizando repositórios open-sources de projetos conhecidos por suas boas práticas de código. O objetivo é comparar as sugestões dos LLMs com ferramentas de análise estática de código, como o SonarQube, e analisar qualitativamente os resultados.
